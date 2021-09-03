@@ -13,7 +13,7 @@ def get_clinic_name(clinic_id):
 
 # Set Start clinic id and End clinic id
 start = 12690
-end = 12710
+end = 12800
 clinic_names = []
 
 # Loop throw every clinic id and extract clinic name
